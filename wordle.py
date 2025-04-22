@@ -1,8 +1,6 @@
 import os
 import json
 import random
-import time
-import sys
 
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
